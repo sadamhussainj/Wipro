@@ -1,5 +1,6 @@
 import java.util.Scanner;
-public statis void main(String[] args){
+class FreqArr{
+public static void main(String[] args){
 int i,n=112235,sum,r;
 int []a=new int[10];
 while(n>0){
