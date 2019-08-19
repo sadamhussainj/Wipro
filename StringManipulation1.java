@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Collge{
+class StringManipulation1{
 public static void main(String[] arg){
 String sentence="Welcome to TamilNadu Boys"; 
 String s1=sentence.substring(8,10);
