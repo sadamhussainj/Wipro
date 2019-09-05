@@ -1,3 +1,4 @@
+//all the operation
 String spos[] = input3.split("-");
         int px = Integer.parseInt(spos[0]);
         int py = Integer.parseInt(spos[1]);
