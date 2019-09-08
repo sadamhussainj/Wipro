@@ -1,3 +1,4 @@
+//withpredefindfuncton
 class DecimalBinary{
  
   public void convertBinary(int num){
